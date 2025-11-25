@@ -1,7 +1,7 @@
 .box {
     width: 300px;                 /* exact width */
     background-color: lightblue;  /* as shown */
-    border: 40px solid blue;      /* 15px blue border */
+    border: 15px solid blue;      /* 15px blue border */
     padding: 50px;                /* 50px padding */
     margin: 20px;                 /* 20px margin */
     font-family: Arial, sans-serif;
